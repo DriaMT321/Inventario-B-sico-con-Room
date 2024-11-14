@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gestión de Inventario</string>
+    <string name="add_item">Añadir producto</string>
+    <string name="in_stock">Disponibles: %1$d</string>
+    <string name="sell">Despachar</string>
+    <string name="edit">Modificar</string>
+    <string name="delete">Quitar</string>
+    <string name="attention">Advertencia</string>
+    <string name="delete_question">¿Seguro que deseas quitar este producto?</string>
+    <string name="yes">Aceptar</string>
+    <string name="no">Cancelar</string>
+    <string name="item_name_req">Nombre del producto *</string>
+    <string name="item_price_req">Costo del producto *</string>
+    <string name="quantity_req">Cantidad disponible *</string>
+    <string name="required_fields">Complete todos los campos obligatorios</string>
+    <string name="invalid_input">Datos inválidos</string>
+    <string name="save_action">Guardar cambios</string>
+    <string name="delete_product">Quitar producto</string>
+    <string name="out_of_stock">Producto agotado.</string>
+    <string name="invalid_item">Producto seleccionado no válido.</string>
+    <string name="sell_success">Producto despachado con éxito.</string>
+    <string name="delete_success">Producto eliminado correctamente.</string>
+</resources>
